@@ -15,5 +15,10 @@
     "nodemon": "^1.11.0",
     "ts-node": "^3.3.0",
     "typescript": "^2.4.2"
+  },
+  "dependencies": {
+    "@types/restify": "^5.0.1",
+    "morgan": "^1.8.2",
+    "restify": "^5.0.1"
   }
 }
